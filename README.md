@@ -22,7 +22,7 @@ Alternatively, I may only have one tool that somewhat meets my needs and I need 
 
 ## Open Source to Enterprise
 
-Different ecosystems will gravitate to specifictools and have various motivations, beyond technical, for doing so.
+Different ecosystems will gravitate to specific tools and have various motivations, beyond technical, for doing so.
 This is not necessarily a bad thing as it pushes the envelope for innovation.
 However, the tools from these ecosystems do create friction and conflicting views.
 A pragmatic approach is "Seek first to understand the use case and needs.
