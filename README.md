@@ -1,10 +1,10 @@
 # pragmatic-packaging
-A user focused approach to packaging 
+A user-focused approach to packaging 
 
 ## Motivation
 
-As a basic user, I wish to do task "abc" successfully. 
-As an advanced Python and C++/Fortran user, I wish to do "xyz" successfully.
+As a basic user, I wish to do task "ABC" successfully. 
+As an advanced Python and C++/Fortran user, I wish to do "XYZ" successfully.
 The user's pathway to success will be different: process steps and secondarily tool selection.
 
 In general, I believe over-emphasis on the tools has made all of the packaging tutorials and discussions for years less than ideal for a user.
@@ -16,7 +16,7 @@ Personally, I believe that "one" tool is unable to solve each user's needs.
 Instead, multiple tools have evolved to satisfy the individual user's use case.
 Changes in Python and its uses have driven the need for more than one packaging tool.
 
-Instead of focusing on "one" tool to rule them all, I believe that users seek the tool that helps them accomplish their specific task.
+Instead of focusing on "one" tool to rule them all, I believe that users seek the tool that helps them accomplish their specific tasks.
 As a user with a specific task, I may be faced with several tools that meet my needs. I now need to choose among these tools.
 Alternatively, I may only have one tool that somewhat meets my needs and I need to improvise or create a custom solution.
 
