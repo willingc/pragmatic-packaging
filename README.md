@@ -26,3 +26,7 @@ This is not necessarily a bad thing as it pushes the envelope for innovation.
 However, the tools from these ecosystems do create friction and conflicting views.
 A pragmatic approach is "Seek first to understand the use case and needs.
 Second, accept that there will be orthogonal.
+
+## An Opinionated View of a User's Packaging Decision Process (High Level)
+
+![](packaging.png)
